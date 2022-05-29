@@ -1,4 +1,4 @@
-## Hiii 👋 My name is Raoni Silva
+## <a href="https://www.animatedimages.org/cat-hello-523.htm"><img src="https://www.animatedimages.org/data/media/523/animated-hello-image-0002.gif" border="0" alt="animated-hello-image-0002" height="20"/></a> My name is Raoni Silva
 <div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="1000px" height="02"
 
