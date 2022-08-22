@@ -1,6 +1,6 @@
 ## <a href="https://www.animatedimages.org/cat-hello-523.htm"><img src="https://www.animatedimages.org/data/media/523/animated-hello-image-0002.gif" border="0" alt="animated-hello-image-0002" height="20"/></a> My name is Raoni Silva
 <div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="10000px" height="02"
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="50%" height="02"
 
 <br> <br>I'm a student at [42|Rio](https://42.rio), Software Engineer School that have [42 campus in 25 countries](https://www.42network.org/42-schools/) <a href="https://www.animatedimages.org/cat-world-globes-1667.htm"><img src="https://www.animatedimages.org/data/media/1667/animated-world-globe-image-0039.gif" border="0" alt="animated-world-globe-image-0039" whidth="40" height="28" /></a>
 * 📍 I live in Rio de Janeiro, Brazil
@@ -21,7 +21,7 @@
 <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://iterm2.com/documentation.html" target="_blank"> <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="iTerm"/> </a>
-<br><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100000px" height="02"
+<br><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="50%" height="02"
 </div>
 
 ##
