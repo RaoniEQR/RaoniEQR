@@ -10,7 +10,6 @@
  
 </div>
  
-##
 
 ### Stack
 <p align="center">
@@ -18,7 +17,6 @@
     <img src="https://skillicons.dev/icons?i=git,c,vim,html,javascript,java,css,bash,bootstrap,figma&theme=light" />
   </a>
 </p>
-##
 
 ### 42 Stats
 <div>
@@ -26,7 +24,6 @@
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl31w57uk011409l3prctwdhb/stats?cursusId=21&coalitionId=undefined" alt="rasilva's 42 stats" /></a>
 </div>
 
-##
 
 ### GitHub Stats
 <div>
@@ -34,7 +31,6 @@
 <a href="http://www.github.com/RaoniEQR"><img src="https://github-readme-streak-stats.herokuapp.com?user=RaoniEQR&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" /></a>
  </div>
  
- ##
  
  ### Social Media
  
