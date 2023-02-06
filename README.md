@@ -20,7 +20,6 @@
 
 ### 42 Stats
 <div>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl31w57uk011409l3prctwdhb/stats?cursusId=36&coalitionId=undefined" alt="rasilva's 42 stats" /></a>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl31w57uk011409l3prctwdhb/stats?cursusId=21&coalitionId=undefined" alt="rasilva's 42 stats" /></a>
 </div>
 
@@ -36,7 +35,6 @@
  
  <div>
   <a href="https://instagram.com/raonieqr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/users/815314394388496417" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rasilva@student.42.rio"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raonieqr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
