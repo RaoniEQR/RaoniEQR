@@ -26,7 +26,6 @@
 
 ### GitHub Stats
 <div>
-<a href="http://www.github.com/RaoniEQR"><img src="https://github-readme-stats.vercel.app/api?username=RaoniEQR&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" alt="RaoniEQR's GitHub stats" /></a>
 <a href="http://www.github.com/RaoniEQR"><img src="https://github-readme-streak-stats.herokuapp.com?user=RaoniEQR&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" /></a>
  </div>
  
