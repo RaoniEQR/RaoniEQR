@@ -29,6 +29,9 @@
 <a href="http://www.github.com/RaoniEQR"><img src="https://github-readme-streak-stats.herokuapp.com?user=RaoniEQR&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" /></a>
  </div>
  
+ <div>
+  <a href=""http://www.github.com/RaoniEQR""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raonieqr&langs_count=8&layout=compact&theme=tokyonight"/></a>
+ </div>
  
  ### Social Media
  
