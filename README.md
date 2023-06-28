@@ -20,7 +20,7 @@
 
 ### 42 Stats
 <div>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl31w57uk011409l3prctwdhb/stats?cursusId=21&coalitionId=undefined" alt="rasilva's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl31w57uk011409l3prctwdhb/stats?cursusId=21&coalitionId=344" alt="rasilva's 42 stats" /></a>
 </div>
 
 
