@@ -4,7 +4,7 @@
 
 <br>I'm a student at [42|Rio](https://42.rio), Software Engineer School that have [42 campus in 29 countries](https://www.42network.org/42-schools/) <a href="https://www.animatedimages.org/cat-world-globes-1667.htm"><img src="https://www.animatedimages.org/data/media/1667/animated-world-globe-image-0039.gif" border="0" alt="animated-world-globe-image-0039" whidth="40" height="28" /></a>
 * 📍 I live in Rio de Janeiro, Brazil
-* 📚 I'm learning C++ and Java programming language
+* 📚 I'm learning Java programming language
 * ✉️ Contact me at: [rasilva@student.42.rio](mailto:rasilva@student.42.rio)
 <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0095.gif" width="100%" height="09">
  
