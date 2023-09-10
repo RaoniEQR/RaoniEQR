@@ -15,6 +15,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,vim,html,javascript,java,css,bash,cpp,bootstrap,figma&theme=light" />
+   <img src="https://user-images.githubusercontent.com/25181517/183892787-bca94a0e-ffcb-4eeb-8137-e0fc4e446c25.png" width="5%" height="5%"/>
   </a>
 </p>
 
