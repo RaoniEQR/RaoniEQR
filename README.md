@@ -13,9 +13,10 @@
 
 ### Stack
 <p align="left">
+    <img src="https://github.com/raonieqr/RaoniEQR/assets/57332018/d59064a6-2bdc-4dbb-92be-ce748d5a7db5" width="5%" height="10%"/>
+    <img src="https://user-images.githubusercontent.com/25181517/183892787-bca94a0e-ffcb-4eeb-8137-e0fc4e446c25.png" width="5%" height="15%"/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,vim,html,javascript,typescript,java,css,bash,cpp,figma,postgres,webpack&theme=light" />
-   <img src="https://user-images.githubusercontent.com/25181517/183892787-bca94a0e-ffcb-4eeb-8137-e0fc4e446c25.png" width="5%" height="10%"/>
+    <img src="https://skillicons.dev/icons?i=git,c,vim,html,javascript,typescript,java,css,bash,cpp,figma,postgres,webpack,angular,spring&theme=dark"/>
   </a>
 </p>
 
