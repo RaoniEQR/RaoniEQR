@@ -3,7 +3,7 @@
 <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0095.gif" width="100%" height="09">
 
 <br>I'm a student at [42|Rio](https://42.rio), Software Engineer School that have [42 campus in 29 countries](https://www.42network.org/42-schools/) <a href="https://www.animatedimages.org/cat-world-globes-1667.htm"><img src="https://www.animatedimages.org/data/media/1667/animated-world-globe-image-0039.gif" border="0" alt="animated-world-globe-image-0039" whidth="40" height="28" /></a>
-* 📍 I live in Rio de Janeiro, Brazil
+* 📍 I live in Bahia, Brazil
 * 📚 I'm learning Java programming language
 * ✉️ Contact me at: [rasilva@student.42.rio](mailto:rasilva@student.42.rio)
 <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0095.gif" width="100%" height="09">
@@ -19,12 +19,6 @@
     <img src="https://github.com/raonieqr/RaoniEQR/assets/57332018/d59064a6-2bdc-4dbb-92be-ce748d5a7db5" width="5%" height="10%"/>
     <img src="https://user-images.githubusercontent.com/25181517/183892787-bca94a0e-ffcb-4eeb-8137-e0fc4e446c25.png" width="5%" height="15%"/>
 </p>
-
-### 42 Stats
-<div>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl31w57uk011409l3prctwdhb/stats?cursusId=21&coalitionId=344" alt="rasilva's 42 stats" /></a>
-</div>
-
 
 ### GitHub Stats
 <div>
